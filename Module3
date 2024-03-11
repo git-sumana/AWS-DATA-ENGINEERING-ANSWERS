@@ -1,0 +1,32 @@
+Which component of the AWS Global Infrastructure does Amazon Cloudfront use to ensure low-latency delivery? (Select the best answer.)
+Amazon CloudFront uses AWS edge locations to ensure low-latency delivery.
+
+You can run applications and workloads from a Region closer to the end users to _______ latency
+You can run applications and workloads from a region closer to the end users to decrease latency.
+
+True or False? Networking, storage, compute, and databases are examples of service categories that AWS offers.
+These are examples of services that AWS offers.
+
+Which of the following are geographic areas that host two or more Availability Zones? (Select the best answer.)
+AWS Regions host two or more availability zones.
+
+__ means the infrastructure has built-in component redundancy and ____ means that resources dynamically adjust to increases or decreases in capacity requirements.
+Fault tolerant means that the infrastructure has built-in component redundancy and elastic and scalable means that resources dynamically adjust to increases or decreases in capacity requirements.
+
+True or False? Availability Zones within a Region are connected through low-latency links.
+It's true that Availability Zones within a Region are connected through low latency links.
+
+Which of these statements about Availability Zones is not true? (Select the best answer.)
+A data center cannot be used for more than one Availability Zone.
+
+
+What is true about Regions? (Choose two.)
+Low Latency links
+
+
+AWS highly recommends provisioning your compute resources across _____ Availability Zones. (Select the best answer.)
+AWS highly recommends provisioning your compute resources across multiple Availability Zones.
+
+
+True or False? Edge locations are only located in the same general area as Regions.
+Edge locations do not need to be located in the same general area as Regions.
