@@ -1,0 +1,140 @@
+Format: Q
+        Options
+
+        Answer
+        Reason
+
+A data scientist writes a program that applies rule-based logic to customer profile data to determine which customers are likely to respond to an advertisement. How would you categorize this type of analysis?
+
+Machine teaming (ML)
+Artificial intelligence (Al)
+Traditional analytics
+Preventive analytics
+
+Traditional analytics
+
+(Data analytics relies on programming logic and tools to predictions from data)
+
+
+Which statement describes a key factor to design an effective decision-making infrastructure?
+
+The designer should focus on collecting data and building a pipeline that can be used for all of the analytics in the organization.
+The design should prevent data from being transformed as it moves through the pipeline.
+The designer should start with the business problem to be solved and then build the pipeline that suits that use case.
+Every data pipeline should follow the same pattern of tasks and move directly
+from ingestion to storage to processing and then to analysis and visualization, sequentially.
+
+The designer should start with the business problem to be solved and then build the pipeline that suits that use case.
+
+(The key to designing an effective decision-making
+infrastructure is to start with the business problem to be
+solved.)
+
+
+
+6 Ways to Show Appreciation for Your Child's Teacher
+A customer wants to create a website that highlights cars only. Because there are many different cars, the customer plans to train a model by showing it numerous pictures that are labeled as cars and letting it learn to identify unlabeled pictures as cars. Which data science approach could accomplish this task?
+
+Traditional analytics
+Natural language processing
+Historical analysis
+Artificial intelligence and machine learning (AI/ML)
+
+Artificial intelligence and machine learning (AI/ML)
+
+(AI/ML can leam to make predictions from examples in data.
+This approach is good for unstructured data and where the
+variables are complex.)
+
+
+Which statement accurately reflects how an organization should think about using its data to make decisions?
+
+An organization should always store as much data as possible to maximize value.
+A solution should never sacrifice accuracy for speed.
+Data becomes more valuable for decision-making over time.
+Preventive and predictive analytics promise the most value when compared to other types of analytics.
+
+Preventive and predictive analytics promise the most value when compared to other types of analytics.
+
+(Being able to predict something and take action before it
+occurs provides the most potential value compared to other
+types of analytics.)
+
+
+Which statement best describes the data scientist role in processing data through a
+pipeline?
+
+A data scientist works with data in the pipeline.
+A data scientist focuses on the infrastructure that data passes through.
+A data scientist works on moving data into the pipeline.
+
+A data scientist focuses on granting the correct level of access to different types of users.
+A data scientist works with data in the pipeline.
+
+(A data scientist works with data in the pipeline to perform
+analysis and inform decisions.)
+
+
+Which statement describes how data is processed through the pipeline?
+
+Processing will almost always be iterative.
+The ingestion step of the pipeline might be iterative, but after data is stored to be processed, iterations rarely occur.
+Processing should almost never be iterative.
+After the selected data sources have been ingested into the pipeline, it would be unlikely for additional iterations to involve new data sources.
+
+Processing will almost always be iterative.
+
+(The process will almost always be iterative. You start with a
+hypothesis about what you expect to find in the data, and
+you need to experiment and see where it takes you.)
+
+
+Which statement is true regarding how data might be acted upon as it passes through a pipeline? (Select TWO.)
+
+Data might need to be cleaned or normalized.
+Data that passes through the pipeline will be transformed only once, and this will occur during the ingestion phase.
+All data that is ingested into the pipeline will be enriched.
+Data will probably be transformed through some type of extract, transform, and load (ETL) process.
+Extract, transform, and load (ETL) processes are not used in analytics pipelines.
+
+Data might need to be cleaned or normalized.
+Data will probably be transformed through some type of extract, transform, and load (ETL) process.
+
+
+What is the data engineer's role in processing data through a pipeline?
+
+Train data analysts on analysis and visualization tools.
+Build the infrastructure that the data passes through.
+Evaluate the results.
+Look for additional insights in the data.
+Build the infrastructure that the data passes through.
+
+(Both data scientist and data engineering roles work with the
+data pipeline, but data engineering is primarily focused on
+the infrastructure that the data passes through.)
+
+
+Which statement represents a strategy that is suggested for innovating with artificial intelligence and machine learning (AI/ML)?
+
+Focus on structured data where you can be more certain of the outcomes.
+Take advantage of cloud services with AI/ML features that democratize access.
+To protect your investment, limit ML activities to data scientists who have significant expertise with ML.
+Expect a significant investment to train analysts to use new tools and abandon older, familiar tools, such as SQL.
+
+Take advantage of cloud services with AI/ML features that democratize access.
+
+(Democratizing access is a strategy that is suggested for
+innovating with AI/ML)
+
+
+Which statement best describes the unify part of the three-pronged strategy to build modern data infrastructures?
+
+Use artificial intelligence and machine learning (AI/ML) to discover new insights faster.
+Centrally control access to data.
+Migrate to purpose-built tools and data stores.
+Break down silos and democratize access.
+
+Break down silos and democratize access.
+
+(Unify focusg on moving towards a single source of truth
+that many different types of users can access.)
