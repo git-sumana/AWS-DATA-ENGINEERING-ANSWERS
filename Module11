@@ -1,0 +1,42 @@
+True or False. If a user cannot create a resource, you should check if the user has the permissions to create it.
+True
+
+
+Which type of AWS CloudFormation function can be used to refer to a value in a comma-delimited list?
+Fn::Select
+
+
+
+Brainpower
+Read More
+Where is the source of the error if a WaitConditions times out or returns an error?
+AWS::CloudFormation::Init
+
+
+Which AWS service enables you to build a script-like template that represents stack of AWS resources, and that can be used to launch precisely defined environment on AWS?
+AWS CloudFormation
+
+
+True or False. When you create a custom AMI, it is only available in the Region in which it was created.
+True
+
+
+Which resource does Amazon EC2 Auto Scaling use?
+Launch templates
+
+
+What can an AWS CloudFormation template contain? (Select TWO.)
+-AWS CLI commands
+-Code that describes AWS resources
+
+
+True or False. JSON documents do not support binary data.
+True
+
+
+Which AWS CloudFormation resource type can provide metadata about an Amazon EC2 instance for the cfn-init helper script?
+Init
+
+
+True or False. There is no repository limit for AWS CodeCommit.
+True
